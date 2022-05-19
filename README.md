@@ -21,7 +21,7 @@
 
 💬 *Ask me about : Data Structures and Algorithms, JavaScript, React.
 
- 📫 You can reach me on - **piyusharnav00456@gmail.com**
+ 📫 You can reach me on - **beniwalsumit1412@gmail.com**
  
  <!-- <a  href="" target="_blank"> 🙋‍♂️ Visit My Portfolio</a> -->
  
