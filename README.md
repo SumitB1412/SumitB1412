@@ -23,7 +23,7 @@
 💬 Ask me about : Data Structures and Algorithms, JavaScript, React.
 
 <h4> <i> 🌬Curiosity never ends, so does the learning.</i></h4>
-<h4> <i> 📩Drop an email to <a href="mailto: beniwalsumit1412@gmail.com">Ananthusuresh098@gmail.com</a></i> </h4>
+<h4> <i> 📩Drop an email to <a href="mailto: beniwalsumit1412@gmail.com">beniwalsumit1412@gmail.com</a></i> </h4>
 <h4> <i> 👁‍🗨Have a look at my <a href="https://sumitbeniwal.vercel.app/" target="_blank">Portfolio</a> & <a href="https://drive.google.com/file/d/1l70vjJ83xMJ8eSqskjNUmwK0fKlSYn6H/view">Resume</a></i> </h4>
 
 <br/> 
