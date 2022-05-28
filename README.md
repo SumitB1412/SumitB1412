@@ -40,8 +40,8 @@
   </p>
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb1412&show_icons=true&theme=radical&show_icons=true&locale=en" alt="" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb1412&show_icons=true&theme=radical&show_icons=true&locale=en" alt="stats" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitb1412&&theme=radical" alt="" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitb1412&&theme=radical" alt="streak" /></p>
 
  <h3 align="center">THANK YOU FOR VISITING MY GITHUB PROFILE</h3>
