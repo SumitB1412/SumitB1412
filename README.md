@@ -4,8 +4,6 @@
 <h3 align="center">An aspiring developer with hands-on experience in designing, developing, and maintaining projects.I am willing to collaborate as a team player building better code.
 </h3>
 
-
-
 <p align= "center">
 
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
@@ -15,16 +13,17 @@
 </p>
 
 ## 🙋‍♂️ ### Here are some ideas to get you started:</br>
-🌱 I’m currently learning :  Full Stack Web Development.
+
+🌱 I’m currently learning : Full Stack Web Development.
 
 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
-💬 *Ask me about : Data Structures and Algorithms, JavaScript, React.
+💬 \*Ask me about : Data Structures and Algorithms, JavaScript, React.
 
- 📫 You can reach me on - **beniwalsumit1412@gmail.com**
- 
+📫 You can reach me on - **beniwalsumit1412@gmail.com**
+
  <!-- <a  href="" target="_blank"> 🙋‍♂️ Visit My Portfolio</a> -->
- 
+
 <br/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +38,8 @@
   </p>
 <br>
 
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandna0906&show_icons=true&locale=en&theme=highcontrast" alt="Vandana" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandna0906&&theme=highcontrast" alt="vandna0906" /></p>
 
  <h3 align="center">THANK YOU FOR VISITING MY GITHUB PROFILE</h3>
