@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,  I'm Sumit Beniwal </h1>
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=SumitB1412&color=FAC151)][1]
+
 <h3 align="center">An aspiring developer with hands-on experience in designing, developing, and maintaining projects. I am willing to collaborate as a team player building better code.
 </h3>
 
