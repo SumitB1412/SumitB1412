@@ -16,7 +16,7 @@
 💬 Ask me about : Data Structures and Algorithms, JavaScript, React.
 
 <h4> <i> 🌬Curiosity never ends, so does the learning.</i></h4>
-<h4> <i> 👁‍🗨Have a look at my <a href="https://drive.google.com/file/d/1GUGYN1wXa3ZqKTl3daFRlFCICWzpqkHO/view?usp=sharing">Resume</a></i> </h4>
+<h4> <i> 👁‍🗨Have a look at my <a href="https://drive.google.com/file/d/12m_IXCXrYk7uoFHVi3s6U3oN43zPoPkd/view?usp=sharing">Resume</a></i> </h4>
 <br/>
 
 <br/>
