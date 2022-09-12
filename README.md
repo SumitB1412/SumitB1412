@@ -9,7 +9,7 @@
 
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
-<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/E-Express-yellow"/>
 <img src="https://img.shields.io/badge/R-React-skyblue"/>
 <img src="https://img.shields.io/badge/N-Node-green"/>
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
@@ -17,11 +17,11 @@
 
 ## 🙋‍♂️ ### Here are some ideas to get you started:</br>
 
-🌱 I’m currently learning : Full Stack Web Development.
+🌱 I’m currently learning : **Nextjs**
 
 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
-💬 Ask me about : Data Structures and Algorithms, JavaScript, React.
+💬 Ask me about : **JavaScript, React, HTML, CSS, DSA**
 
 <h4> <i> 🌬Curiosity never ends, so does the learning.</i></h4>
 <h4> <i> 👁‍🗨Have a look at my <a href="https://drive.google.com/file/d/12m_IXCXrYk7uoFHVi3s6U3oN43zPoPkd/view?usp=sharing">Resume</a></i> </h4>
