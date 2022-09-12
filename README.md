@@ -7,6 +7,14 @@
 <h3 align="center">An aspiring developer with hands-on experience in designing, developing, and maintaining projects. I am willing to collaborate as a team player building better code.
 </h3>
 
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
+
 ## 🙋‍♂️ ### Here are some ideas to get you started:</br>
 
 🌱 I’m currently learning : Full Stack Web Development.
