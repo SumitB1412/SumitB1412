@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ ### Here are some ideas to get you started:</br>
 
-🌱 I’m currently learning : **Nextjs**
+🌱 I’m currently learning : **React Native**
 
 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
