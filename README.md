@@ -19,14 +19,14 @@
 
 ## 🙋‍♂️ ### Here are some ideas to get you started:</br>
 
-🌱 I’m currently learning : **Java**
+🌱 I’m currently learning : **Next.js**
 
 🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
 💬 Ask me about : **JavaScript, React, HTML, CSS, DSA**
 
 <h4> <i> 🌬Curiosity never ends, so does the learning.</i></h4>
-<h4> <i> 👁‍🗨Have a look at my <a href="https://drive.google.com/file/d/12m_IXCXrYk7uoFHVi3s6U3oN43zPoPkd/view?usp=sharing">Resume</a></i> </h4>
+
 <br/>
 
 <br/>
