@@ -1,39 +1,11 @@
+<h4>Hi there! I'm Sumit Beniwal, a Full Stack Developer with over 2 years of experience.
+<br />
+<br />
 
-<p align="center">
-<!-- <img  src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="sumit beniwal" width="600px" height="320px" /> -->
-<img alt="coding" width="500" height="300px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/> </br>
-</p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="30px">,  I'm Sumit Beniwal </h1>
-
-<h3 align="center">An aspiring developer with hands-on experience in designing, developing, and maintaining projects. I am willing to collaborate as a team player building better code.
-</h3>
-
-<p align= "center">
-<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
-<img src="https://img.shields.io/badge/E-Express-yellow"/>
-<img src="https://img.shields.io/badge/R-React-skyblue"/>
-<img src="https://img.shields.io/badge/N-Node-green"/>
-<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
-</p>
-
-## 🙋‍♂️ ### Here are some ideas to get you started:</br>
-
-🌱 I’m currently learning : **Next.js**
-
-🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
-
-💬 Ask me about : **JavaScript, React, HTML, CSS, DSA**
-
-<h4> <i> 🌬Curiosity never ends, so does the learning.</i></h4>
-
-<br/>
-
-<br/>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h2><i>Tech Stack</i></h2>
+## 👨🏻‍💻 Tech Stack
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -57,7 +29,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+## 📩 Let's Connect
 
 <p align="left">
     <a href="https://www.linkedin.com/in/beniwalsumit/">
@@ -71,15 +43,3 @@
     </a>
 </p>
 <br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb1412&show_icons=true&theme=radical&show_icons=true&locale=en" alt="stats" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitb1412&&theme=radical" alt="streak" /></p>
-
-<br/>
-<a href="https://github.com/SumitB1412/github-readme-activity-graph"><img alt="Sumit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SumitB1412&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
