@@ -1,4 +1,4 @@
-<h4>Hi there! I'm Sumit Beniwal, a Full Stack Developer with over 2 years of experience.
+<h4>Hi there! I'm Sumit Beniwal, a Full Stack Developer with over 4 years of experience.
 <br />
 <br />
 
